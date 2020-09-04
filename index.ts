@@ -6,4 +6,4 @@ export const join = (char: string) => (strings: string[]) => strings.join(char);
 
 export const filterEmptyString = filter((a: string) => a.length > 0);
 
-export const startsWith = (a: string) => (b: string) => a.startsWith(b)
+export const startsWith = (a: string) => (b: string) => b.startsWith(a)
