@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/stevemao/fp-ts-string#readme",
   "peerDependencies": {
-    "fp-ts": "^2.5.3"
+    "fp-ts": "^2.10.5"
   },
   "devDependencies": {
     "@types/node": "^13.11.0",
